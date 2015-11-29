@@ -1,0 +1,13 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    contracts (0.12.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  contracts
+
+BUNDLED WITH
+   1.10.6
