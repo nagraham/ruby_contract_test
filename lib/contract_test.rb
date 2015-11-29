@@ -11,7 +11,7 @@ class User
   
   # You need valid? method on the class
   def self.valid? user
-    !user.name.nil?
+    not user.name.nil?
   end
   
 end
